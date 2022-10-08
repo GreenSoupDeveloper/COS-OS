@@ -46,3 +46,5 @@ Commmands:
                             programs - view the programs list
                             file list - shows ALL the files in the system
                             dir list - shows ALL the directories in the system
+
+the os is in development so :)
