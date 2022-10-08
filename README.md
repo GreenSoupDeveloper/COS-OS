@@ -1,2 +1,2 @@
-# COS, a kernel written in C#
-COS (C# Operative System) or COSK is a kernel written in C# with COSMOS
+# COS, a operative system written in C#
+COS (C# Operative System) or COSK is a OS written in C# with the Kernel COSMOS
