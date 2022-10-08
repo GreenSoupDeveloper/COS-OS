@@ -12,7 +12,7 @@ is a operative system made with the COSMOS Kernel and written in C#, COS its lit
 
 ![Captura de pantalla 2022-10-08 151114](https://user-images.githubusercontent.com/109924369/194723771-de172b43-666e-488d-ab87-09eeb7e1b97f.png)
 
-Commmands:
+# Commmands:
 
                             shutdown - shutdown the device
                             restart - restart the device
@@ -53,10 +53,12 @@ and you can use the os for do you want, BUT YOU HAVE TO PUT "This is made with C
 
 with the time, im going updating the os, if you want, you can be a member of the dev team of COS :)
 
-requeriments:
+# requeriments:
 
 Visual Studio 19 or more
+
 COSMOS User Kit in the last version or better
+
 VMWare or something else
 
 and thats it! (i think)
