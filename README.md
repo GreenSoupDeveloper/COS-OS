@@ -52,3 +52,11 @@ the os is in development so :)
 and you can use the os for do you want, BUT YOU HAVE TO PUT "This is made with COS made by GreenSoupDeveloper" >:(
 
 with the time, im going updating the os, if you want, you can be a member of the dev team of COS :)
+
+requeriments:
+
+Visual Studio 19 or more
+COSMOS User Kit in the last version or better
+VMWare or something else
+
+and thats it! (i think)
