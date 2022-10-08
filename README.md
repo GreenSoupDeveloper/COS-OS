@@ -55,9 +55,9 @@ with the time, im going updating the os, if you want, you can be a member of the
 
 # requeriments:
 
-Visual Studio 2019 or more (mine is 20220209-vs2019)
+Visual Studio 2019 or more
 
-COSMOS User Kit in the last version or better
+COSMOS User Kit in the last version or better (mine is 20220209-vs2019)
 
 VMWare or something else
 
