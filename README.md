@@ -1,16 +1,16 @@
 # COS, a operative system written in C#
-COS (C# Operative System) or COSK is a OS written in C# with the COSMOS Kernel
+COS (C# Operative System) is a OS written in C# with the COSMOS Kernel
 
 hello!, im GreenSoupDev, and i present you, COS
 
-is a operative system made with the COSMOS Kernel and written in C#, COS its literally the same than MS-DOS but written in C# and free-code
+is a operative system made with the COSMOS Kernel and written in C#, COS its literally the same than MS-DOS but written in C# and open-source
 
 
-![Captura de pantalla 2022-10-08 150711](https://user-images.githubusercontent.com/109924369/194723763-b5067cd5-36a4-4d8a-bfd2-ecf845e979de.png)
+![Captura de pantalla 2022-10-14 171729](https://user-images.githubusercontent.com/109924369/195947463-1d88369a-e711-4d1d-89a8-4716b4900a2a.png)
 
-![Captura de pantalla 2022-10-08 150904](https://user-images.githubusercontent.com/109924369/194723769-6a6d238f-79a1-4669-a937-e4b0c33e9fa8.png)
+![Captura de pantalla 2022-10-14 173044](https://user-images.githubusercontent.com/109924369/195947480-6bbeffce-8972-440d-b0b8-9e32b586bb85.png)
 
-![Captura de pantalla 2022-10-08 151114](https://user-images.githubusercontent.com/109924369/194723771-de172b43-666e-488d-ab87-09eeb7e1b97f.png)
+![Captura de pantalla 2022-10-14 172917](https://user-images.githubusercontent.com/109924369/195947484-c8577963-8109-4369-aa3c-9bd0df42a1b7.png)
 
 # Commmands:
 
