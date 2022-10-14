@@ -5,6 +5,7 @@ hello!, im GreenSoupDev, and i present you, COS
 
 is a operative system made with the COSMOS Kernel and written in C#, COS its literally the same than MS-DOS but written in C# and open-source
 
+![Captura de pantalla 2022-10-14 170334](https://user-images.githubusercontent.com/109924369/195947573-c863ff99-6468-42f8-8e53-6081d1840251.png)
 
 ![Captura de pantalla 2022-10-14 171729](https://user-images.githubusercontent.com/109924369/195947463-1d88369a-e711-4d1d-89a8-4716b4900a2a.png)
 
@@ -14,38 +15,24 @@ is a operative system made with the COSMOS Kernel and written in C#, COS its lit
 
 # Commmands:
 
-                            shutdown - shutdown the device
-                            restart - restart the device
-                            help - the help command
-                            hi / hello - hello!
-                            cd - change to a directory
-                            dir - show the directory files
-                            clear - clear the screen
-                            create folder - make a folder
-                            create folder in dir - make a folder in a directory
-                            create file in dir - make a file in a directory
-                            create file - make a file
-
-                            modify - modifies the specific file
-                            run - runs something
-                            delete - delete the file
-                            about system - about the system
-                            about device - shows the components of the device who you are using this system
-                            change textcolor (color) - change the text color of the commands
-                            change textbgcolor (color) - change the text background color
-                            whatsnew - whats new?
-                            create user - creates a new user
-                            change user - change the user
-                            user logoff - log off the user
-                            user login - log in the user
-                            user count - view the count of users
-                            
-                           
-                            (partition) hdisk info - view the info of a hard disk
-                            show hour - view the current hour
-                            programs - view the programs list
-                            file list - shows ALL the files in the system
-                            dir list - shows ALL the directories in the system
+      about - about the system
+			clear - clear the screen
+			system - view the device information
+		  mkfile - make a file
+			mkfolder - make a folder
+			mkfileindir - make a file in a directory
+			mkfolderindir - make a folder in a directory
+			del - delete a file
+			dirlist - view the list of directories
+			gllist - view the list of ALL the files and directories of the system
+			"filelist - view the list of files
+			cd - change directory
+			mod - modify a file
+			run - runs a file
+			dir - view directory
+			shutdown - shutdown the device
+			reboot - reboots the device
+			time - view the current time
 
 the os is in development so :)
 
