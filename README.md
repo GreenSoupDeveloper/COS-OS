@@ -33,6 +33,8 @@ is a operative system made with the COSMOS Kernel and written in C#, COS its lit
 			shutdown - shutdown the device
 			reboot - reboots the device
 			time - view the current time
+	
+and much more!
 
 the os is in development so :)
 
