@@ -12,6 +12,10 @@ is a operative system made with the COSMOS Kernel and written in C#, COS its lit
 ![Captura de pantalla 2022-10-14 173044](https://user-images.githubusercontent.com/109924369/195947480-6bbeffce-8972-440d-b0b8-9e32b586bb85.png)
 
 ![Captura de pantalla 2022-10-14 172917](https://user-images.githubusercontent.com/109924369/195947484-c8577963-8109-4369-aa3c-9bd0df42a1b7.png)
+# Credits:
+
+Thanks to RaphMar2021, he is helping me making cos! 
+his github: https://github.com/RaphMar2021
 
 # Commmands:
 
