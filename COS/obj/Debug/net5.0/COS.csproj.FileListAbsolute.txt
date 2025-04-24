@@ -1,0 +1,96 @@
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\bin\Debug\net5.0\COS.deps.json
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\bin\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\bin\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\bin\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\obj\Debug\net5.0\COS.csproj.AssemblyReference.cache
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\obj\Debug\net5.0\COS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\obj\Debug\net5.0\COS.AssemblyInfoInputs.cache
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\obj\Debug\net5.0\COS.AssemblyInfo.cs
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\obj\Debug\net5.0\COS.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\obj\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\obj\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\newCOS\COS\COS\obj\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\bin\Debug\net5.0\COS.deps.json
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\bin\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\bin\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\bin\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\obj\Debug\net5.0\COS.csproj.AssemblyReference.cache
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\obj\Debug\net5.0\COS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\obj\Debug\net5.0\COS.AssemblyInfoInputs.cache
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\obj\Debug\net5.0\COS.AssemblyInfo.cs
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\obj\Debug\net5.0\COS.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\obj\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\obj\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS\COS\COS\obj\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\bin\Debug\net5.0\COS.deps.json
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\bin\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\bin\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\bin\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\obj\Debug\net5.0\COS.csproj.AssemblyReference.cache
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\obj\Debug\net5.0\COS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\obj\Debug\net5.0\COS.AssemblyInfoInputs.cache
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\obj\Debug\net5.0\COS.AssemblyInfo.cs
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\obj\Debug\net5.0\COS.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\obj\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\obj\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\GreenCOS\COS\obj\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\bin\Debug\net5.0\COS.deps.json
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\bin\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\bin\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\bin\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\obj\Debug\net5.0\COS.csproj.AssemblyReference.cache
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\obj\Debug\net5.0\COS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\obj\Debug\net5.0\COS.AssemblyInfoInputs.cache
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\obj\Debug\net5.0\COS.AssemblyInfo.cs
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\obj\Debug\net5.0\COS.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\obj\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\obj\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\old\COS\COS\obj\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\COS\COS\bin\Debug\net5.0\COS.deps.json
+C:\Users\Pc\Videos\Operative Systems\COS\COS\bin\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS\COS\bin\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS\COS\bin\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\COS\COS\obj\Debug\net5.0\COS.csproj.AssemblyReference.cache
+C:\Users\Pc\Videos\Operative Systems\COS\COS\obj\Debug\net5.0\COS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Videos\Operative Systems\COS\COS\obj\Debug\net5.0\COS.AssemblyInfoInputs.cache
+C:\Users\Pc\Videos\Operative Systems\COS\COS\obj\Debug\net5.0\COS.AssemblyInfo.cs
+C:\Users\Pc\Videos\Operative Systems\COS\COS\obj\Debug\net5.0\COS.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Videos\Operative Systems\COS\COS\obj\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS\COS\obj\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS\COS\obj\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\bin\Debug\net5.0\COS.deps.json
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\bin\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\bin\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\bin\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\obj\Debug\net5.0\COS.csproj.AssemblyReference.cache
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\obj\Debug\net5.0\COS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\obj\Debug\net5.0\COS.AssemblyInfoInputs.cache
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\obj\Debug\net5.0\COS.AssemblyInfo.cs
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\obj\Debug\net5.0\COS.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\obj\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\obj\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\COS 2.50 beta\COS\COS\obj\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\bin\Debug\net5.0\COS.deps.json
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\bin\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\bin\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\bin\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\obj\Debug\net5.0\COS.csproj.AssemblyReference.cache
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\obj\Debug\net5.0\COS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\obj\Debug\net5.0\COS.AssemblyInfoInputs.cache
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\obj\Debug\net5.0\COS.AssemblyInfo.cs
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\obj\Debug\net5.0\COS.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\obj\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\obj\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\Operative Systems\cos 2.50\COS\COS\obj\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\COS\COS\COS\bin\Debug\net5.0\COS.deps.json
+C:\Users\Pc\Videos\COS\COS\COS\bin\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\COS\COS\COS\bin\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\COS\COS\COS\bin\Debug\net5.0\COS.pdb
+C:\Users\Pc\Videos\COS\COS\COS\obj\Debug\net5.0\COS.csproj.AssemblyReference.cache
+C:\Users\Pc\Videos\COS\COS\COS\obj\Debug\net5.0\COS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Videos\COS\COS\COS\obj\Debug\net5.0\COS.AssemblyInfoInputs.cache
+C:\Users\Pc\Videos\COS\COS\COS\obj\Debug\net5.0\COS.AssemblyInfo.cs
+C:\Users\Pc\Videos\COS\COS\COS\obj\Debug\net5.0\COS.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Videos\COS\COS\COS\obj\Debug\net5.0\COS.dll
+C:\Users\Pc\Videos\COS\COS\COS\obj\Debug\net5.0\ref\COS.dll
+C:\Users\Pc\Videos\COS\COS\COS\obj\Debug\net5.0\COS.pdb
